@@ -122,7 +122,7 @@ h1 {
   margin: 60px;
   background-color: black;
   border-style: double;
-  border-color: white;
+  border-color: rgb(4, 145, 180);
   color: white;
   padding: 10px;
 }
@@ -203,7 +203,7 @@ i {
   background-color: black;
   color: white;
   border-style: double;
-  border-color: white;
+  border-color: rgb(4, 145, 180);
   padding: 10px;
 }
 .Mis-proyectos-titulo h2 {
@@ -258,7 +258,7 @@ i {
   display: flex;
   background-color: black;
   border-radius: 5px;
-  border: solid 4px lightslategray;
+  border: solid 4px rgb(4, 145, 180);
   width: 1000px;
   margin: 30px;
   padding: 20px;
