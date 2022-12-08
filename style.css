@@ -121,8 +121,7 @@ h1 {
 .conocimientos {
   margin: 60px;
   background-color: black;
-  border-style: double;
-  border-color: rgb(4, 145, 180);
+  border: 2px solid rgb(4, 145, 180);
   color: white;
   padding: 10px;
 }
@@ -202,8 +201,7 @@ i {
   text-align: center;
   background-color: black;
   color: white;
-  border-style: double;
-  border-color: rgb(4, 145, 180);
+  border: 2px solid rgb(4, 145, 180);
   padding: 10px;
 }
 .Mis-proyectos-titulo h2 {
@@ -258,7 +256,7 @@ i {
   display: flex;
   background-color: black;
   border-radius: 5px;
-  border: solid 4px rgb(4, 145, 180);
+  border: solid 2px rgb(4, 145, 180);
   width: 1000px;
   margin: 30px;
   padding: 20px;
